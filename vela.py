@@ -15,6 +15,8 @@ class VELA_Main():
 
     def __init__(self, master):
         self.master = master
+
+    #probably going to jupyter
         
     #https://physics.nist.gov/PhysRefData/XrayMassCoef/ElemTab/z07.html
 
